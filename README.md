@@ -7,3 +7,5 @@
     dotnet
 # Run your app
     dotnet run
+# Check output 
+    http://<ip-address>:5000
